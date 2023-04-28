@@ -14,7 +14,7 @@ filetype plugin on
 filetype indent on
 
 set number
-:set relativenumber
+set relativenumber
 syntax on
 " Highlight cursor line underneath the cursor horizontally.
 set cursorline
